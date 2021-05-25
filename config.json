@@ -1,0 +1,27 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:root@localhost:3307/avinashblog",
+    "prod_uri": "mysql://root:root@localhost:3307/avinashblog",
+    "ig_url": "https://www.instagram.com/___avinashjha___/",
+    "github_url": "https://github.com/nashlush",
+    "linkedin_url": "https://www.linkedin.com/in/avinash-jha-34533a188/",
+    "home_title": "Avinash's Blog",
+    "home_tagline": "Well, now that you're here, check what its all about.",
+    "aboutme_title": "About Me",
+    "aboutme_tagline": "This is what I do.",
+    "contact_title": "Contact Me",
+    "contact_tagline": "Have questions? I have answers.",
+    "mail_username": "addyourmailaddresshere",
+    "mail_password": "addyourmailpasswordhere",
+    "about_text1": "Hey there guys! My name is Avinash Jha as you might have figured it by now. Well if you're here on the about page it implies you probably wanna know more about my life. Well here it Goes.",
+    "about_text2": "I am a Student for now pursuing my Engineering in Computer Science from Pune University.",
+    "about_text3": "If you are interested and willing enough, do check my linked and github and follow me on Instagram and you can email me through the contact section of the blog. I will surely revert back to you.",
+    "no_of_posts": 3,
+    "admin_username": "addadminusername",
+    "admin_password": "addadminpassword",
+    "upload_location": "D:\\study material\\Python_project\\Flask_web\\static\\img\\"
+
+  }
+}
