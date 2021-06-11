@@ -23,3 +23,4 @@ Steps to run on you local machine:
       Werkzeug==2.0.1
 4. you might also need to change the database uri in the main.py file so as to make  a connection to your database.
 5. And you are good to go.
+You can check out this website on [a link](https://avinash-blog-website.herokuapp.com)
